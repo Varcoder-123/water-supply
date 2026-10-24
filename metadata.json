@@ -1,0 +1,6 @@
+{
+  "name": "AquaFlow - Water Tanker Supply & Delivery",
+  "description": "On-demand water tanker booking, delivery scheduling, live tracking, and quotes for residential drinking water, swimming pools, and construction sites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
